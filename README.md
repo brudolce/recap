@@ -9,7 +9,7 @@
  npm install
 ```
 3. create a .env file on the root project and place your quandl user_key, one the REACT_APP_APIKEY variable.
-e.g. REACT_APP_APIKEY=Lsadoij12iojda0.  https://www.quandl.com/data/EOD-End-of-Day-US-Stock-Prices/usage/quickstart/api
+e.g. REACT_APP_APIKEY=Lsadoij12iojda0.
 
 5. Still inside the project folder, start the project. It is going to run on localhost:3000
 ```bash
@@ -18,3 +18,9 @@ e.g. REACT_APP_APIKEY=Lsadoij12iojda0.  https://www.quandl.com/data/EOD-End-of-D
 ----
 Or just access on:
 https://recap-bruno-challenge.netlify.app/
+
+----
+### UTILs
+get your quandl API KEY: https://www.quandl.com/data/EOD-End-of-Day-US-Stock-Prices/usage/quickstart/api <br/>
+install node: https://nodejs.org/en/download/ <br/>
+install NPM:https://docs.npmjs.com/cli/v7/commands/npm-install
