@@ -1,0 +1,29 @@
+header {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  font-size: 20px;
+  margin: 10px;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.subTitle {
+  font-size: 14px;
+  margin-left: 10px;
+  color: #d0d0d0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.error {
+  color: grey;
+  margin: 20px;
+}

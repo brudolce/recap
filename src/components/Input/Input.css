@@ -1,0 +1,32 @@
+.inputContainer {
+  margin: 10px;
+  color: grey;
+}
+.inputTextArea {
+  border-radius: 10px;
+  border: 2px solid #f0f0f0;
+  width: 170px;
+  background-color: #f2f8fb;
+  color: #404040;
+  padding: 0 7px;
+}
+
+/* input:focus {
+  border-radius: 30px;
+} */
+.inputTextArea:focus {
+  border: 2px solid #000000;
+  border-radius: 30px;
+  outline: none;
+  background-color: #f2f8fb;
+}
+
+::placeholder {
+  color: black;
+  opacity: 0.2;
+}
+
+.inputHeader {
+  margin: 0 5px;
+  font-size: 15px;
+}

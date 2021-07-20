@@ -1,0 +1,19 @@
+.Button {
+  margin: 10px;
+  border-radius: 20px;
+  border: 2px solid #f2f8fb;
+  width: 170px;
+  background-color: #6497b1;
+  color: #f2f8fb;
+  padding: 0 7px;
+  height: 40px;
+}
+
+/* input:focus {
+  border-radius: 30px;
+} */
+.Button:focus {
+  border: 2px solid #000000;
+  outline: none;
+  background-color: #6497b1;
+}
