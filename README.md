@@ -1,3 +1,8 @@
+
+Access the published project:
+https://recap-bruno-challenge.netlify.app/
+----
+
 ### Start
 
 1. Clone this repo.
@@ -15,10 +20,6 @@ e.g. REACT_APP_APIKEY=Lsadoij12iojda0.
 ```bash
  npm start
 ```
-----
-Or just access on:
-https://recap-bruno-challenge.netlify.app/
-
 ----
 ### UTILs
 get your quandl API KEY: https://www.quandl.com/data/EOD-End-of-Day-US-Stock-Prices/usage/quickstart/api <br/>
