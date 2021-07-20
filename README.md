@@ -1,8 +1,3 @@
-Start
-
-1. clone this repo
-
-
 ### Start
 
 1. Clone this repo
