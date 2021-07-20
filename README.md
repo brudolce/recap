@@ -1,6 +1,7 @@
 
-Access the published project:
+Access the published project:<br/>
 https://recap-bruno-challenge.netlify.app/
+
 ----
 
 ### Start
